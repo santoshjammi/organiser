@@ -1,0 +1,15 @@
+{% extends "layout.html" %}
+{% block content %}
+    {% for post in posts %}
+        <article class="media content-section">
+          <div class="media-body">
+            <div class="article-metadata">
+              <a class="mr-2" href="#">{{ post.date_last_interaction }}</a>
+              <small class="text-muted">{{ post.opportunity_in_transaction }}</small>
+            </div>
+            <h2><a class="article-title" href="#">{{ post.counterparty_in_transaction }}</a></h2>
+            <p class="article-content">{{ post.notes }}</p>
+          </div>
+        </article>
+    {% endfor %}
+{% endblock content %}

@@ -1,0 +1,70 @@
+[
+    {
+        "SlNo": "1",
+        "Name": "AA_AMG",
+        "Designation": "Partner",
+        "Organisation": "Jaavi",
+        "Phone": "",
+        "Email": "",
+        "LinkedinConnect": "",
+        "Type": "",
+        "MetOrConnected": "",
+        "Opportunities": [
+            {
+                "TARGET": "Mathuradas Colony re-development",
+                "Category": "Personal_Inv Banking",
+                "Priority": "B",
+                "Status": "3 - In Process",
+                "Contact1": "AA_AMG",
+                "Contact1Designation": "Partner",
+                "Contact2": "",
+                "Contact2Designation": "",
+                "ContactNumber": "",
+                "Email": "",
+                "ReferralPerson": "AA_KC",
+                "NOTES/STATUS": "Mathuradas Project"
+            }
+        ],
+        "tasks": []
+    },
+    {
+        "SlNo": "2",
+        "Name": "AA_Archana",
+        "Designation": "",
+        "Organisation": "",
+        "Phone": "",
+        "Email": "",
+        "LinkedinConnect": "01 April 2019",
+        "Type": "",
+        "MetOrConnected": "",
+        "Opportunities": [],
+        "tasks": []
+    },
+    {
+        "SlNo": "3",
+        "Name": "AA_Josheita Mohan",
+        "Designation": "Head Hunter",
+        "Organisation": "",
+        "Phone": "",
+        "Email": "",
+        "LinkedinConnect": "",
+        "Type": "",
+        "MetOrConnected": "",
+        "Opportunities": [
+            {
+                "TARGET": "Sterlite Power - Head of Fund Raising",
+                "Category": "Corporates",
+                "Priority": "B",
+                "Status": "1 - Not Started",
+                "Contact1": "AA_Josheita Mohan",
+                "Contact1Designation": "",
+                "Contact2": "",
+                "Contact2Designation": "",
+                "ContactNumber": "",
+                "Email": "",
+                "ReferralPerson": "AA_KC",
+                "NOTES/STATUS": "Spoke with her"
+            }
+        ],
+        "tasks": []
+    }
